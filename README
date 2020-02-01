@@ -1,0 +1,6 @@
+== file_format
+
+From irb you can run widget.rb to load and execute format_file.rb
+From terminal shell prompt you can run "ruby widget.rb" to load and execute format_file.rb
+
+All of this should be done from the projects lib directory
